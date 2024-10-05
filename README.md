@@ -38,9 +38,9 @@ cd face-mask-reconstruction
 2)Install the required packages:
 bash
 Copy code
-pip install -r requirements.txt
+install requirements mentioned above
 
-3)Download the pre-trained model for facial landmark detection (shape_predictor_68_face_landmarks.dat.bz2) and place it in the root directory.
+3)Download the pre-trained model for facial landmark detection (shape_predictor_68_face_landmarks.dat) and place it in the root directory.
 
 Usage of Intel OneAPI 
 
