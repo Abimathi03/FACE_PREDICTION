@@ -4,11 +4,11 @@ This project implements a face mask reconstruction model using a convolutional a
 
 Table of Contents
 
-Features
-Requirements
-Installation
-Usage of Intel OneAPI
-License
+1)Features
+2)Requirements
+3)Installation
+4)Usage of Intel OneAPI
+5)License
 
 Features
 
@@ -19,13 +19,13 @@ Visualize the original masked image alongside the reconstructed image.
 
 Requirements
 
-Python 3.x
-TensorFlow
-OpenCV
-Matplotlib
-NumPy
-dlib
-facenet-pytorch
+1)Python 3.x
+2)TensorFlow
+3)OpenCV
+4)Matplotlib
+5)NumPy
+6)dlib
+7)facenet-pytorch
 
 Installation
 
@@ -60,12 +60,15 @@ Autoencoder Architecture: Consists of an encoder that compresses the image and a
 Custom Loss Function: Utilizes SSIM for better image quality during reconstruction.
 
 Visualization
+
 The code visualizes the masked image and the reconstructed output side by side for easy comparison.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
+
 MTCNN for face detection.
 TensorFlow for machine learning framework.
 OpenCV for image processing.
