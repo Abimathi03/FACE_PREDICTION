@@ -32,7 +32,7 @@ Installation
 1)Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/face-mask-reconstruction.git
+git clone https://github.com/Abimathi03/FACE_PREDICTION.git
 cd face-mask-reconstruction
 
 2)Install the required packages:
